@@ -3,9 +3,10 @@
 sou a valen
 - estudante de **análise e desenvolvimento de sistemas (ads)**  
 - interessada em tecnologia e desenvolvimento de software  
+
 📍 atibaia, são paulo, brasil
 
-estou iniciando minha jornada na programação e usando o github para registrar meus estudos, projetos e minha evolução na área de tecnologia.
+estou iniciando minha jornada na programação e usando o github para registrar meus estudos, projetos e minha evolução na área de tecnologia
 
 ## atualmente aprendendo o(≧▽≦)o
 
@@ -14,6 +15,7 @@ estou iniciando minha jornada na programação e usando o github para registrar 
 - html e css
 - javascript
 - fundamentos de arquitetura de computadores
+- programação em C
 
 ## tecnologias (.❛ ᴗ ❛.)
 
