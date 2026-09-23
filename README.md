@@ -13,7 +13,7 @@ Estou iniciando minha jornada na programação e usando o GitHub para registrar 
 - HTML e CSS
 - JavaScript
 - Git e GitHub
-- Fundamentos de Arquitetura de Soluções
+- Fundamentos de Arquitetura de Computadores e Soluções
 
 ## 💻 Tecnologias
 
@@ -27,7 +27,7 @@ Estou iniciando minha jornada na programação e usando o GitHub para registrar 
 
 ## 📚 Formação
 
-**Análise e Desenvolvimento de Sistemas — UNIFAAT**  
+**Análise e Desenvolvimento de Sistemas — IFSP, Campus Bragança Paulista**  
 2026 — atualmente
 
 ## 📂 Projetos
