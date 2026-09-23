@@ -1,47 +1,47 @@
-# Olá! Eu sou a Valentine 👋
+# (＠＾◡＾) 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Interessada em tecnologia e desenvolvimento de software  
-📍 Atibaia, São Paulo, Brasil
+sou a valen
+- estudante de **análise e desenvolvimento de sistemas (ads)**  
+- interessada em tecnologia e desenvolvimento de software  
+📍 atibaia, são paulo, brasil
 
-Estou iniciando minha jornada na programação e usando o GitHub para registrar meus estudos, projetos e minha evolução na área de tecnologia.
+estou iniciando minha jornada na programação e usando o github para registrar meus estudos, projetos e minha evolução na área de tecnologia.
 
-## 🌱 Atualmente aprendendo
+## atualmente aprendendo o(≧▽≦)o
 
-- Lógica de Programação
-- Desenvolvimento Web
-- HTML e CSS
-- JavaScript
-- Git e GitHub
-- Fundamentos de Arquitetura de Computadores e Soluções
+- lógica de programação
+- desenvolvimento web
+- html e css
+- javascript
+- fundamentos de arquitetura de computadores
 
-## 💻 Tecnologias
+## tecnologias (.❛ ᴗ ❛.)
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logocolor=white" alt="html5">
+  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logocolor=white" alt="css3">
+  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logocolor=black" alt="javascript">
+  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logocolor=white" alt="git">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logocolor=white" alt="github">
 </div>
 
-## 📚 Formação
+## formação (≧◡≦)
 
-**Análise e Desenvolvimento de Sistemas — IFSP, Campus Bragança Paulista**  
+**análise e desenvolvimento de sistemas — ifsp, campus bragança paulista**  
 2026 — atualmente
 
-## 📂 Projetos
+## projetos (o˘◡˘o)
 
-🔹 **Arquitetura de Soluções 2026**  
-Estudos e atividades acadêmicas desenvolvidos durante a graduação.
+- **arquitetura de soluções 2026**  
+estudos e atividades acadêmicas desenvolvidos durante a graduação.
 
-🔹 **Projetos de desenvolvimento web**  
-Exercícios e projetos realizados durante meus estudos de programação.
+- **projetos de desenvolvimento web**  
+exercícios e projetos realizados durante meus estudos de programação.
 
-## ✨ Sobre mim
+## sobre mim ( • ⩊ • )
 
-Sou estudante e estou construindo minha base em programação passo a passo. Este perfil acompanha meu aprendizado, meus projetos acadêmicos e minha evolução na área de tecnologia.
+sou estudante e estou construindo minha base em programação passo a passo. este perfil acompanha meu aprendizado, meus projetos acadêmicos e minha evolução na área de tecnologia;
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+obrigada por visitar meu perfil!
