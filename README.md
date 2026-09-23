@@ -18,11 +18,9 @@ estou iniciando minha jornada na programação e usando o github para registrar 
 ## tecnologias (.❛ ᴗ ❛.)
 
 <div>
-  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logocolor=white" alt="html5">
-  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logocolor=white" alt="css3">
-  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logocolor=black" alt="javascript">
-  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logocolor=white" alt="git">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logocolor=white" alt="github">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logocolor=white" alt="css3">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 </div>
 
 ## formação (≧◡≦)
